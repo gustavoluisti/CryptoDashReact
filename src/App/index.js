@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import Settings from './Settings';
+import Settings from '../Settings';
 import ApplyLayout from './AppLayout'
 import AppBar from './AppBar'
 
